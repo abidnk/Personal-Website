@@ -225,13 +225,14 @@ body{
 .header-image img{
     height: 120vh;
     float: right;
+   
 }
 .header-image{
     float: right;
     height: auto;
     background-size: cover;
     background-position: center;
-    width: 40%;   
+    width: 20%;   
     height: 100vh;
 
 }
